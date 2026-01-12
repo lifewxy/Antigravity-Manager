@@ -42,7 +42,13 @@
         "switch_to_english": "切换到英文",
         "switch_to_chinese": "切换到中文",
         "switch_to_english_short": "EN",
-        "switch_to_chinese_short": "中"
+        "switch_to_chinese_short": "ZH",
+        "switch_to_japanese": "切换到日文",
+        "switch_to_japanese_short": "JA",
+        "switch_to_turkish": "切换到土耳其文",
+        "switch_to_turkish_short": "TR",
+        "switch_to_vietnamese": "切换到越南文",
+        "switch_to_vietnamese_short": "VI"
     },
     "dashboard": {
         "hello": "你好, 用户 👋",
