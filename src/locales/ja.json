@@ -48,7 +48,9 @@
         "switch_to_turkish": "トルコ語に切り替え",
         "switch_to_turkish_short": "TR",
         "switch_to_vietnamese": "ベトナム語に切り替え",
-        "switch_to_vietnamese_short": "VI"
+        "switch_to_vietnamese_short": "VI",
+        "switch_to_russian": "ロシア語に切り替え",
+        "switch_to_russian_short": "RU"
     },
     "dashboard": {
         "hello": "こんにちは 👋",
@@ -364,8 +366,8 @@
                     "title": "モデルマッピング",
                     "title_tooltip": "利用可能なz.aiモデルIDを取得し、Claudeモデル名がどのようにz.aiモデルIDに翻訳されるかを構成します。",
                     "refresh": "モデルを取得",
-            "btn_edit": "編集",
-            "btn_save": "保存",
+                    "btn_edit": "編集",
+                    "btn_save": "保存",
                     "refreshing": "取得中...",
                     "hint": "利用可能なモデル: {{count}}。提案を選択するか、カスタムモデルIDを入力してください。",
                     "error": "モデルの取得に失敗しました: {{error}}",

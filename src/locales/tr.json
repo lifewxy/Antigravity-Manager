@@ -48,7 +48,9 @@
         "switch_to_turkish": "Türkçe'ye Geç",
         "switch_to_turkish_short": "TR",
         "switch_to_vietnamese": "Vietnamca'ya Geç",
-        "switch_to_vietnamese_short": "VI"
+        "switch_to_vietnamese_short": "VI",
+        "switch_to_russian": "Rusça'ya Geç",
+        "switch_to_russian_short": "RU"
     },
     "dashboard": {
         "hello": "Merhaba, Kullanıcı 👋",
@@ -364,8 +366,8 @@
                     "title": "Model Eşleme",
                     "title_tooltip": "Mevcut z.ai model kimliklerini alın ve gelen Anthropic/Claude model adlarının z.ai model kimliklerine nasıl çevrileceğini yapılandırın.",
                     "refresh": "Modelleri getir",
-            "btn_edit": "Düzenle",
-            "btn_save": "Kaydet",
+                    "btn_edit": "Düzenle",
+                    "btn_save": "Kaydet",
                     "refreshing": "Getiriliyor...",
                     "hint": "Kullanılabilir modeller: {{count}}. Bir öneri seçin veya özel model kimliği yazın.",
                     "error": "Modeller getirilemedi: {{error}}",

@@ -49,7 +49,9 @@
         "switch_to_turkish": "Chuyển sang Tiếng Thổ Nhĩ Kỳ",
         "switch_to_turkish_short": "TR",
         "switch_to_vietnamese": "Chuyển sang Tiếng Việt",
-        "switch_to_vietnamese_short": "VI"
+        "switch_to_vietnamese_short": "VI",
+        "switch_to_russian": "Chuyển sang tiếng Nga",
+        "switch_to_russian_short": "RU"
     },
     "dashboard": {
         "hello": "Xin chào, Bạn 👋",
